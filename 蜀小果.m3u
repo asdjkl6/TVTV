@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="蜀小果",CCTV1
+http://wabc.ml/sxg.php?id=CCTV-1H265_4000
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="蜀小果",CCTV2
+http://wabc.ml/sxg.php?id=CCTV-2H265_4000
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="蜀小果",CCTV3
+http://wabc.ml/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="蜀小果",CCTV4
+http://wabc.ml/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="蜀小果",CCTV5
+http://wabc.ml/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="蜀小果",CCTV5+
+http://wabc.ml/sxg.php?id=CCTV-5plusH265_4000
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="蜀小果",CCTV6
+http://wabc.ml/sxg.php?id=CCTV-6H265_4000
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="蜀小果",CCTV7
+http://wabc.ml/sxg.php?id=CCTV-7H265_4000
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="蜀小果",CCTV8
+http://wabc.ml/sxg.php?id=CCTV-8H265_4000
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="蜀小果",CCTV9
+http://wabc.ml/sxg.php?id=CCTV-9H265_4000
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="蜀小果",CCTV10
+http://wabc.ml/sxg.php?id=CCTV-10H265_4000
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="蜀小果",CCTV11
+http://wabc.ml/sxg.php?id=CCTV-11-H265_4000
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="蜀小果",CCTV12
+http://wabc.ml/sxg.php?id=CCTV-12H265_4000
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="蜀小果",CCTV13
+http://wabc.ml/sxg.php?id=CCTV-xw_4000
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="蜀小果",CCTV14
+http://wabc.ml/sxg.php?id=CCTV-14H265_4000
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="蜀小果",CCTV15
+http://wabc.ml/sxg.php?id=CCTV-15-yyH265_4000
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="蜀小果",CCTV17
+http://wabc.ml/sxg.php?id=CCTV-17_4000
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="蜀小果",CHC家庭电影
+http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="蜀小果",CHC动作电影
+http://wabc.ml/sxg.php?id=gef.wqCHCdzdyH265_4000
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="蜀小果",CHC高清电影
+http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",4K超高清电影
+http://wabc.ml/sxg.php?id=emdy4k_8000
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="蜀小果",江苏卫视
+http://wabc.ml/sxg.php?id=jswsH265_4000
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="蜀小果",北京卫视
+http://wabc.ml/sxg.php?id=bjwsH265_4000
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="蜀小果",东方卫视
+http://wabc.ml/sxg.php?id=dfwsH265_4000
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="蜀小果",湖南卫视
+http://wabc.ml/sxg.php?id=hnwsH265_4000
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="蜀小果",浙江卫视
+http://wabc.ml/sxg.php?id=zjwsH265_4000
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="蜀小果",广东卫视
+http://wabc.ml/sxg.php?id=gdwsH265_4000
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="蜀小果",江西卫视
+http://wabc.ml/sxg.php?id=jxwsH265_4000
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="蜀小果",湖北卫视
+http://wabc.ml/sxg.php?id=hbwsH265_4000
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="蜀小果",重庆卫视
+http://wabc.ml/sxg.php?id=cqwsH265_4000
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="蜀小果",安徽卫视
+http://wabc.ml/sxg.php?id=ahwsH265_4000
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="蜀小果",东南卫视
+http://wabc.ml/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="蜀小果",山东卫视
+http://wabc.ml/sxg.php?id=sdwsH265_4000
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="蜀小果",深圳卫视
+http://wabc.ml/sxg.php?id=szwsH265_4000
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="蜀小果",天津卫视
+http://wabc.ml/sxg.php?id=tjwsH265_4000
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="蜀小果",贵州卫视
+http://wabc.ml/sxg.php?id=gzwsH265_4000
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="蜀小果",吉林卫视
+http://wabc.ml/sxg.php?id=jlwsH265_4000
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="蜀小果",黑龙江卫视
+http://wabc.ml/sxg.php?id=hljwsH265_4000
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="蜀小果",四川卫视
+http://wabc.ml/sxg.php?id=scwsH265_4000
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvfengyunyinyue.png" group-title="蜀小果",CCTV风云音乐
+http://wabc.ml/sxg.php?id=fyyy_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvnvxing.png" group-title="蜀小果",CCTV女时尚
+http://wabc.ml/sxg.php?id=nxss_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",CCTV兵器科教
+http://wabc.ml/sxg.php?id=bqkj_4000
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvshijiedili.png" group-title="蜀小果",CCTV世界地理
+http://wabc.ml/sxg.php?id=sjdl_4000
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvshijiedili.png" group-title="蜀小果",CCTV世界地理
+http://wabc.ml/sxg.php?id=yscq4kH265_4000
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="蜀小果",甘肃卫视
+http://wabc.ml/sxg.php?id=gsws_4000
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="蜀小果",云南卫视
+http://wabc.ml/sxg.php?id=ynws_4000
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="蜀小果",广西卫视
+http://wabc.ml/sxg.php?id=gxws_4000
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/henan.png" group-title="蜀小果",河南卫视
+http://wabc.ml/sxg.php?id=hnws35_4000
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi.png" group-title="蜀小果",陕西卫视
+http://wabc.ml/sxg.php?id=sxws_4000
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi_.png" group-title="蜀小果",山西卫视
+http://wabc.ml/sxg.php?id=sxws42_4000
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/neimeng.png" group-title="蜀小果",内蒙古卫视
+http://wabc.ml/sxg.php?id=nmgws_4000
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvfengyunyinyue.png" group-title="蜀小果",风云音乐HD
+http://wabc.ml/sxg.php?id=fyyy_4000
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/henan.png" group-title="蜀小果",河南卫视
+http://wabc.ml/sxg.php?id=hnws_4000
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="蜀小果",四海钓鱼
+http://wabc.ml/sxg.php?id=shdy_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",国防军事
+http://wabc.ml/sxg.php?id=gfjs_4000
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvshijiedili.png" group-title="蜀小果",世界地理
+http://wabc.ml/sxg.php?id=sjdl_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",摄影
+http://wabc.ml/sxg.php?id=sy_4000
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="蜀小果",早期教育
+http://wabc.ml/sxg.php?id=zqjy_4000
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="蜀小果",中国教育4
+http://wabc.ml/sxg.php?id=zhms_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",家庭理财
+http://wabc.ml/sxg.php?id=jtlcH264_4000
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="蜀小果",中国教育1
+http://wabc.ml/sxg.php?id=CETV-1H264_4000
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="蜀小果",快乐垂钓
+http://wabc.ml/sxg.php?id=fyzqklcdHDH265_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",都市剧场
+http://wabc.ml/sxg.php?id=yxfydsjcHDH265_4000
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="蜀小果",新视觉
+http://wabc.ml/sxg.php?id=ycxsjH265_4000
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="蜀小果",生活时尚
+http://wabc.ml/sxg.php?id=shssH265_4000
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="蜀小果",全纪实
+http://wabc.ml/sxg.php?id=qjs-HDH265_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",SCTV-7hd
+http://wabc.ml/sxg.php?id=SCTV-7-_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="蜀小果",峨眉电影
+http://wabc.ml/sxg.php?id=emdygqH265_4000
