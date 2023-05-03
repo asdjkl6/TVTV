@@ -1,4 +1,3 @@
-
  简介
 
 lPTV直播源码，适用于电视直播。
@@ -15,18 +14,68 @@ lPTV直播源码，适用于电视直播。
 
  Channel lists
 
-
-
  Epg file (三选一)
 
-- [老张的EPG Since2019]
+- [老张的EPG Since2019](http://epg.51zmt.top:8000/e.xml)
 
--(http://epg.51zmt.top:8000/e.xml)
+- [Github](https://raw.githubusercontent.com/xiaoluoxxx/iptv-one/main/epg.xml)
+ 
+- [某大神](https://epg.112114.xyz/pp.xml)
 
-- [Github]
 
--(https://raw.githubusercontent.com/xiaoluoxxx/iptv-one/main/epg.xml)
-  
-- [某大神]
-  
-- (https://epg.112114.xyz/pp.xml)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
